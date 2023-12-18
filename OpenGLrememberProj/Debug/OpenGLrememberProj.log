@@ -1,0 +1,8 @@
+﻿  Render.cpp
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(128,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(128,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(128,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(538,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(553,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vanya\source\repos\KG-Kursach\OpenGLrememberProj\Render.cpp(563,22): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenGLrememberProj.vcxproj -> C:\Users\vanya\source\repos\KG-Kursach\Debug\OpenGLrememberProj.exe
